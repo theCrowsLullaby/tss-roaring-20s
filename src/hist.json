@@ -1,0 +1,3567 @@
+[
+  {
+    "id": 0,
+    "text": "The last few months have been tough on Roman.\n Clawing his way to one of the top journalists wasn't an easy ride but he didn't regret a single minute of it. In the end all the sleepless nights and dangerous escapades have finally paid off.\n His last article has been a roaring succes and his boss valued him enough to send Roman as his replacement to tonights gala.\n To say Roman was thrilled would be an understatemnt.\n Luck was finally on his side.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 1
+      }
+    }
+  },
+
+  {
+    "id": 1,
+    "text": "There was only one issue Roman had to solve before going out for the evening. And that was his clothing choice.\n Call him shallow but according to Roman first impressions were very important.\n The journalist became recognizable due to his clothing always being adored by something red. Be it the suit itself, a scarf or a tie. But the host of the party deceided to make the gala sea themed due to some important marine general being a guest of honour.\n Roman fealt the idea was tacky at best. The general just came back from the sea and the journalist was almost certain he needed a break from it.\n Unfortunatly, it left Roman with the choice whether he should choose his usual getup and stand out or blend in with his more toned down green suit.",
+    "options": {
+      "id0": {
+        "text": "Wear green",
+        "next": 2
+      },
+      "id1": {
+        "text": "Wear red",
+        "next": 4
+      }
+    }
+  },
+  {
+    "id": 2,
+    "text": "After much delibaration the journalist finaly decided to wear the green suit. It's not his usual color but he had to admit that it did bring out his eyes.\n As much as he would like to stand out, maybe wearing something in tune with the dress code would highten his chances of securing some interviews.\n Adjusting his tie Roman finally checked the time.\n 'SH*T' he swore loudly trying to tie the tie faster but only managing it to wrinkle it.\n There is no way he's gonna make it on time he lamented.\n Unless... Unless he's gonna take a shortcut through the notorious Crystal territory. The downside was that he might end up with more holes in his body than Swiss cheese.\n Then again he'd prefer to be punctual to his first important Gala.\n Is it really worth to risk his life over making a good first impresion?",
+    "options": {
+      "color": "green",
+      "id0": {
+        "text": "Take the shorcut!",
+        "next": 3
+      },
+      "id1": {
+        "text": "Stick to the main road",
+        "next": 5
+      }
+    }
+  },
+  {
+    "id": 3,
+    "text": "Despite it being rather reckless Roman decided to take the shortcut. Roman always told himself to live a little. Hopefully a little longer than the few minutes it will take to cross the gangs turf.\n Going through the Crystal neighborhood was slightly unnerving and Roman's pace was constatly getting faster. The journalist was almost joggin at the end.\n He only had a few meters left till leaving the turf when he heard footsteps, followed by a voice followed.\n 'Hey punk!' As soon as Roman turned around he was greated with gun is pressed to his stomach.'You shouldn't have come here.' The man stated, an evil grin streaching through his features. Roman gulped down, he really thought luck was on his side tonight. 'Any last words?.' Roman's voice catched in his throught. The journalist could already see the afterlife with his minds eye.",
+    "options": {
+      "id0": {
+        "text": "Next",
+        "next": 82
+      }
+    }
+  },
+  {
+    "id": 2,
+    "text": "After much delibaration the journalist finaly decided to wear the red suit. Roman was certain that hadn't gotten so far in his life by blending into the masses. Besides, standing out always felt outstanding to him. He wasn't about to let his confidence drop now, when he was at the doorsteps of a grand opportunity. Adjusting his tie Roman finally checked the time.\n 'SH*T' he swore loudly trying to tie the tie faster but only managing it to wrinkle it.\n 'There is no way I'm gonna make it on time' Roman lamented franctically putting on his shoes.\n 'Unlesss...' the journalist stopped himself in his tracks\n Unless he's gonna take a shortcut through the notorious Crystal territory. The downside was that he might end up with more holes in his body than Swiss cheese if he decides to take that route.\n Then again he'd prefer to be punctual to his first important Gala.\n Is it really worth to risk his life over making a good first impresion?",
+    "options": {
+      "color": "red",
+      "id0": {
+        "text": "Take a shorcut!",
+        "next": 6
+      },
+      "id1": {
+        "text": "Stick to the main road",
+        "next": 5
+      }
+    }
+  },
+  {
+    "id": 5,
+    "text": "No, being a few minutes late won't make a difference. After all he'd prefer to be alive then punctual.\n Roman quickly made his way downtown keeping a fast pace. It proved to be a good decision, as the party wasn't in full swing just yet.\n Roman let himself breath out a sigh of relief and steady his fast heartbeat. \n `This is it` he thought to himself, `time to mingle with the upper crust`. Roman straightened is posture and entered the ballroom.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 74
+      }
+    }
+  },
+  {
+    "id": 6,
+    "text": "Roman figured taking the shortcut was just one more of a many risk on his path to greatness. In the end it proved to be a good decision as he arrived safe and sound. He was even a few minutes early.\n The ballroom was mostly empty so Roman decided to help himself to some fingerfood before starting his task.\n With that in mind Roman stepped in.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 76
+      }
+    }
+  },
+  {
+    "id": 7,
+    "text": "Roman spots the mayor surouned by a swarm of women from all ages.\n This wasn't an unussual occurrence for man. After all Janus Dolos was known for his support for women rights and for activly fighting for the ban of alcohol. His views were controversial yet this man always stood his ground. If Roman had to be honest with himself, he'd say that he admired the man for his determination.\n With no time better then the present Roman decided to approach the mayor",
+    "colo": "#D2C0AC",
+    "options": {
+      "id2": {
+        "color": "green",
+        "text": "next",
+        "next": 128
+      },
+      "id1": {
+        "color": "red",
+        "text": "next",
+        "next": 44
+      }
+    }
+  },
+  {
+    "id": 8,
+    "text": "Roman jumps into the strangers car. If he wanted to shoot him he would have done so while his back was turned to him, Roman reasons. Just as the journalist is about to thank the driver the man speaks up.\n 'You gotta watch your back Rem. Your `good friend` Dad will have your head if I'll have to drag your wounded body to his clinic again.'\n",
+    "options": {
+      "id0": {
+        "text": "A clinic?",
+        "next": 10
+      },
+      "id1": {
+        "text": "Who's Rem?",
+        "next": 9
+      }
+    }
+  },
+  {
+    "id": 9,
+    "text": "The man's eyes widen and he takes a closer look at Roman.\n 'Oh crap! You're not Remus!' He says before he takes a sharp U turn rushing back.\n A figure in green jumps onto the road and the driver stops just a few centimeters short of hitting him. As soon as they stop the man  rips the passenger seat open.\n Their eyes widden momentarily when they spot Roman. The journalist uses the chance to observe the man. His mask is halfway ripped, exposing a mop of wild wavy hair. The stranger is wearing the exact same suit Roman has on. It's stained, with what Roman hopes, is either grease or mud. The man collects himself when a string of gushoots echoes nearby. He squeezes himself next to Roman. The driver starts the car before the door fully closes. The sounds of bullets chasing them.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 11
+      }
+    }
+  },
+  {
+    "id": 10,
+    "text": "The man gives him a strange look.\n 'Did you hit your head or something?' He reaches out his hand for Romans forehead and Roman bats it away.\n 'Hey I'm greatfull and all but I think you've got me mixed up with somebody'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 9
+      }
+    }
+  },
+  {
+    "id": 11,
+    "text": "The mans side is pressed against Roman's and he hopes his suit won't get stained because of that.\n'If you wanted to ditch me you should have done so for a handsome fella than me, Vee.' The man in green states. Is this guy insane? The driver-Vee laughs at the statement. 'You're not setting the bar very high.'\n 'You wound me, dear brother of mine' The man gasps dramatically and slides slightly down the passangerseat, earning himself a snort from Vee, who turn to Roman. 'Sorry for accidentally kindnapping you.' He says more amused than concerned for somebody who barerly avoided getting shot. 'Where should we drop you off?'",
+    "options": {
+      "id0": {
+        "text": "'The gala'",
+        "next": 85
+      },
+      "id1": {
+        "text": "'Who are you guys?'",
+        "next": 12
+      }
+    }
+  },
+  {
+    "id": 12,
+    "text": "The silence that follows is enough of a sign that Roman should not be asking the question.\n 'Think of us as chauffeur for the night' Roman decides it's wise not to press the matter.\n 'To the gala then, if you don't mind Mr. V' Remus snickers at the nickname. They drop him off a block away from the party. Normally Roman would argue but Vee just saved his life and shot a man in front of him so he decided not to press his luck.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 85
+      }
+    }
+  },
+  {
+    "id": 13,
+    "text": "Dr. Picani is a man of many trades. Career-wise he is a phycologist but due to his friendly personality and outgoing demeenor he has soon become a public figure. He has led many charities and the town people adore him.\n Popularity runs in the Picani family as his child, Elliot, manages one of the most, if not THE most, popular newspapers in the city- The Cartoonist. Roman would kill to be employed by them to prove his worth as a journalist.\n Dr. Picani has stayed away from politics up until this year when he decided to run for the Mayor office. He is the only candidate that poses a threat to the re-election of mr. Dolos.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 14
+      }
+    }
+  },
+  {
+    "id": 14,
+    "text": "Dr. Picani stands together with the famous marine admiral and a few other gentlemen. Roman decides to approach them.\n They did not call Roman prince charming in school for nothing as he flawlessly joins the conversation and slowly brings the atention to himself. Picani offers him a trial period at The Cartoonist.",
+    "options": {
+      "id0": {
+        "text": "Stick with your stable job",
+        "next": 15
+      },
+      "id1": {
+        "text": "accept the proposal",
+        "next": 17
+      }
+    }
+  },
+  {
+    "id": 15,
+    "text": "Roman felt honered at the proposition but decided to stick with his stable job. The magazine started to grow in popularity after the interview with Dr. Picani, who was elected mayor that autumn. Roman has ben dubbed `most popular journalist` the following year.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 16,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "restart",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 17,
+    "text": "This is the oportunity Roman has been hoping for and he accepts it in a heartbeat.\n",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 135
+      }
+    }
+  },
+  {
+    "id": 18,
+    "text": "WARNING!\n This work contains mature topics.",
+    "colo": "#C7AF96",
+    "options": {
+      "id0": {
+        "text": "proceed",
+        "next": 0
+      },
+      "id1": {
+        "text": "check trigger warnings",
+        "next": 102
+      }
+    }
+  },
+  {
+    "id": 19,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 20,
+    "text": "'Oh now you started being a bluenose?' Virgil jabs at him and Roman has no idea what he's talking about.\n It's getting harder to focus.\n 'Did you forget your late night escapade in your birth suit last week? Or was the amount of liquor enough to erase the memory from that empty head of yours.'\n Roman wanted to say that he has absolutly nothing in common with somebody so uncivilized. He closes his eyes to gather his thoughs and when he opens them, the room feels is empty.\n His head still feels horribly sluggish.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 27
+      }
+    }
+  },
+  {
+    "id": 21,
+    "text": "'I'm not getting into your car!'\n The man fell silent for a moment before his mask scrunches up around his nose. 'We don't have time for this Rem!'\n Roman doesn't have enough time to response before he hears a grunt behind him. The man rose up to his knees, his gun back in his hand and aimed at the driver.",
+    "options": {
+      "id0": {
+        "text": "flight",
+        "next": 22
+      },
+      "id1": {
+        "text": "fight",
+        "next": 23
+      }
+    }
+  },
+  {
+    "id": 22,
+    "text": "Every fiber of Roman's being screamed at him to run as fast as he can. Roman's back was turned to the men before the gun was even fired. He hears an agonizing scream and his hands fly up to cover his ears. He almost makes it around the corner when he feels a sharp pain in his leg. Before he is able to scream he feels a sharp pain in his head and everything slowly gets black.",
+    "options": {
+      "id0": {
+        "text": "welp. You died. better luck next time",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 23,
+    "text": "Roman had no either whether it was his inner heroism or just a desperate act of survival but he lunged at the man the moment he registered the weapon. He manages to detect the bullet as they both fall to the ground.\n He hears two loud bangs before he's able to rip the gun out of the mans hand.\n The driver standing above him.\n The gun-man laying liply on the ground.\n 'Come on.' Roman hears\n 'He's knocked out, let's go.'\n The driver says grabbing Roman by the colar and hoists him in one swift movement to his feet. He starts dragging the journalist to the car with more force than Roman expected from someone so thin.",
+    "options": {
+      "id0": {
+        "text": "Too stunned to argue",
+        "next": 25
+      },
+      "id1": {
+        "text": "'HEY!'",
+        "next": 24
+      }
+    }
+  },
+  {
+    "id": 24,
+    "text": "'Where do you think you're talking me! I have a gala to attend!'\n 'Not filled with led, you're not'\n Roman glances at his torso, two wet spots barerly visible in the dim street light stain his white shirt. He puts his hand to it, it comes back sticky and warm. It takeas all his willpower not to puke.\n Roman can fell his feet becoming fuzzy but the driver steadies him.\n 'Oh no you're not' He says. 'You're not passing out on me until we make it to your favourite doctor.' He finishes as he pushes Roman onto the passanger seat, then goes around the car and starts it as soon as he sits himself in the drivers seat.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 25
+      }
+    }
+  },
+  {
+    "id": 25,
+    "text": "They arrive just outside of town after a few minutes. The place is barren safe for a little house in the middle of no-where. The driver announces their arrival with three lound honks. As soon as the man stops the car another man opens the door of the building.\n 'Virgil? What happened?'\n'Remus got clipped' The driver-Virgil says as he steps out of the car.\n 'Again? Virgil, we've-!'\n 'You can scold me all you want after we save him. Please?' The man sighs and makes his way to the car. Virgil turn to Roman once again. 'Can you stand?'\n Roman nods but as soon as he tries to a sharp pain shoots through his side. Virgil wordlessly scoops him up. Roman did not expect somebody so lanky to have this much strength.",
+    "options": {
+      "id0": {
+        "text": "'If I knew all it took to find a strong guy was to get shot I would have done so long ago.'",
+        "next": 26
+      },
+      "id1": {
+        "text": "do not",
+        "next": 86
+      }
+    }
+  },
+  {
+    "id": 26,
+    "text": "'Remus. I swear to god I will drop you!' Virgil says, but his shoulders relax slightly.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 86
+      }
+    }
+  },
+  {
+    "id": 27,
+    "text": "Roman gazes down, his torso is neatly bandaged and he can feel a dull pain coming from his right side.\n He grimaces when he thinks about the fact that he most likely just earned himself two scars.\n 'Nothing I can do about that now' he thinks bitterly to himself as he glances around the room. There is a little note next to the bed. He picks it up.\n Half the page is coverd with the word `REST` in bold letters. Next to it is, what Roman assumes to be, a frowning face. He snorts putting the note down.\n What a curious pair the doctor and his son are.",
+    "options": {
+      "id0": {
+        "text": "Go find Virgil",
+        "next": 28
+      },
+      "id1": {
+        "text": "Rest your chest",
+        "next": 73
+      }
+    }
+  },
+  {
+    "id": 28,
+    "text": "Roman stands up, his side throbbing as he does so. He debates whether he should put on a shirt but he can't find one and his whole torso is covered in bandages, which means someone had to put them on. Roman swallows his dignity and goes on his search shirtless. At least he still has his pants on.\n He opens the door as quietly as possible and creeps thoward the source of voices.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 89
+      }
+    }
+  },
+  {
+    "id": 29,
+    "text": "'You're not ganna, ya know?'\n 'You know I wouldn't. Besides, the guy saved me. I doubt he wants me dead.' Virgil lets out a pleasant laugh.'No wonder he argued over getting into the car. He's probably more confused than anything else.' The other man lets out a sigh.\n 'I'm glad you still have morals, kiddo.'\n 'I think that stopped being true a long time ago, dad' the man just smiles and shakes his head.\n'I just wish...'\n 'I know dad.' The silence that follows feels heavy and Roman decides he should back out. He settles into bed just in time for someone to knock softly on the door.",
+    "options": {
+      "id0": {
+        "color": "green",
+        "text": "next",
+        "next": 31
+      },
+      "id1": {
+        "color": "purple",
+        "text": "next",
+        "next": 37
+      }
+    }
+  },
+  {
+    "id": 30,
+    "text": "Roman settles in. He wonders what's being said but he doesnt have to wait too long for Virgil to show up, who announces himself with a knock.",
+    "options": {
+      "id0": {
+        "color": "green",
+        "text": "next",
+        "next": 31
+      },
+      "id1": {
+        "color": "purple",
+        "text": "next",
+        "next": 37
+      }
+    }
+  },
+  {
+    "id": 31,
+    "text": "'Hey!' Virgil says as he enters the room.\n There is a plate in his hands, a small cloud of steam rises over it and Roman can smell oatmeal.\n Virgil looks more interested in the content of the plate than anything else in the room. Roman tries to catch his gaze but to no avail, Virgil keeps standing stifly in the doorway.\n 'You're...you're ok?' ",
+    "options": {
+      "color": "green,purple",
+      "id0": {
+        "text": "'Is that a statement or a question?'",
+        "next": 32
+      },
+      "id1": {
+        "text": "'Thanks for saving me'",
+        "next": 34
+      }
+    }
+  },
+  {
+    "id": 32,
+    "text": "Virgil snorts and his posture relaxes slightly. He leans against the doorframe, still not meeting Roman's eyes.\n 'Sorry for accidentaly kidnapping you.' It's Roman's turn to snort.\n'Believe me when I say this is one of the most pleasant kidnappings I've heard of.' Virgil lips tug slightly upwards and he finaly meets Roman's eyes.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 33
+      }
+    }
+  },
+  {
+    "id": 33,
+    "text": "'Hey... um... I should probably give you a ride home.' Virgil finaly utters out. \n'SH*T' Roman tries to shoot up and winces when a sharp pain shoots through his side. Virgil is at his side in a second.\n 'You'll ruin the stitches'\n 'I'm gonna ruin my reputation if miss the party!' Roman says slightly agitated, which earns him a laugh from Virgil.\n 'That's what you're worried about? You're just as crazy as Remus.'\n'I was supposed to secure an interview!'\n 'You'll be securing some rest after I get you home. You're in no condition to be dancing!' He says gently pushing Roman back onto the operation table. 'Besides. You've slept for a few hours it's almost past 9 in the morning.'\n Roman sinks down dejected.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 101
+      }
+    }
+  },
+  {
+    "id": 34,
+    "text": "'I could say the same to you.' He relaxes slightly and leans againt the doorframe.\n The oatmeal still appears to be more interesting than Roman.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 33
+      }
+    }
+  },
+  {
+    "id": 35,
+    "text": "Virgil gets Roman home. The ride is mostly silent and Virgil shifts a lot. He looks like he wants to say something but Roman's thoughts are entirerly elsewhere. The gala was a big opportunity and he completly blew it. He's not sure he's ready to face his boss again on Monday.\n The next few days come and go in a haze of anxiety and Roman finds himself and the doorsteps to his office in Monday, dreading for what's to come.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 36
+      }
+    }
+  },
+  {
+    "id": 36,
+    "text": "Not five minutes in and Roman gets the chewing out of his lifetime. He gets an hour to pack and soon enough he finds himself on the street with nothing but a box of his belongings from the office under his arm.\n The outcome is worse than Roman anticipated and he slowly makes his way back home when he goes past his favourite diner, Crofters, on the way.\n He decides to chear himself up with his favourite soup. It won't give him a job but at least his stomach will be full.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 39
+      }
+    }
+  },
+  {
+    "id": 37,
+    "text": "'Oh no, so it wasn't just his drugged mind playing tricks on him, he's really cute.' Is Roman's assesment when the tall man enters the room.\n 'You ok?'\n'I'm ok, but you're `fine`.' Roman thinks to himself. \nThe man gives Roman a weird look.\n Oh no.\nHe said that out loud, didn't he?",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 38
+      }
+    }
+  },
+  {
+    "id": 38,
+    "text": "'uuum thank you?'Virgil says not really looking at Roman. Oh no he totally blew it. Way to go idiot. 'I brought you oatmeal' the man says but makes no move to come closer.\n'Thanks' Roman says.\nF*ck\nF*ck\nF*ck.\n 'Smells delicious'. The man still makes no move to come closer.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 33
+      }
+    }
+  },
+  {
+    "id": 39,
+    "text": "There are no vacant tables when he enters. Most seats are occupied as well.\n The only two vacant spots he sees are either next to a tired looking man, that covered the majority of the table in papers and to a man at the far end of the dinner completly engrossed in a book.",
+    "options": {
+      "id0": {
+        "text": "first choice",
+        "next": 40
+      },
+      "id1": {
+        "text": "second choice",
+        "next": 132
+      }
+    }
+  },
+  {
+    "id": 40,
+    "text": "'Hello, may I...'\n 'Sit here, yes, yes just don't interrupt me'\n The man keeps shuffling through his papers that at this point barerly leave enough space for Roman to put down his diner.",
+    "options": {
+      "color": "green,navy",
+      "id0": {
+        "text": "Pick one up",
+        "next": 43
+      },
+      "id1": {
+        "text": "Mind your own buisness",
+        "next": 41
+      }
+    }
+  },
+  {
+    "id": 41,
+    "text": "Roman finishes his meal in silence. After his meal he takes a sceneric route home and notices a `for hire` poster at the local theather.\n Thinking he has nothing to lose Roman decides to apply and soon enough he finds himself being a decently popular performer.",
+    "colo": "#D19D8C",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 42,
+    "text": "You survived. Hurray :D",
+    "options": {
+      "id0": {
+        "text": "restart",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 43,
+    "text": "Anoyed Roman decides to pick the stack of paper that looms dangerously close to his soup. All of them have the same name written on them.\n'Thomas Sanders?' The man glares at him and snatches the files back. 'Are you a fan of his?' He wouldn't be suprised, after all he's one of the most popular actors and, from what Roman has heard from Joan a really fun person. He'd love to interview him.\n 'He's performing Guys and Dolls at our local theather this week. I've heard he's really good in that play.' Joan was performing in the play as well and invited Roman as a thanks for his help. The man was looking forward to the outing and seeing his friend on-stage again.\n The man gives him a strange look. Stupid Roman. Of course he's gonna know where the man performs if he's a fan of his. Way to make a fool out of yourself.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 51
+      }
+    }
+  },
+  {
+    "id": 44,
+    "text": "He tried squeezing next to the women but they surrounded the Mayor in a tight circle and Roman didn't even get a chance to speak. The journalist was stubborn and refused to leave, even when the chances of talking to the Mayor were dim at best.\nIt's been a few minutes and Roman was getting seriously annoyed. He was this close to elbowing his way through the crowd, but he knew it would do him no good.\n He noticed a mop short hair quickly navigating above the crowd. The figure seemed to catch the Mayors attention as well. As he turned around towards them and gave them a polite smile.\nSoon enough they were standing next to Mr. Dolos. They were speaking but Roman couldn't hear what was being said.\n'Excuse my departure, but there are some urgent matters I have to attend too.' The Mayor told the crowd and follewed his companion.\nRoman, bitter about not securing the interview and he briefly wonders if he should inconspicuously follow the Mayor to find more about him.",
+    "options": {
+      "id0": {
+        "color": "no",
+        "text": "follow them",
+        "next": 45
+      },
+      "id1": {
+        "text": "find the companion",
+        "next": 90
+      }
+    }
+  },
+  {
+    "id": 45,
+    "text": "`IF he gets caught` Roman thinks to himself. He almost makes it to the door when a firm grasp on his arm stops him. He turned around to see the person from earlier.\n 'Lost?' The man asks.\n'I was looking for a bathroom' The man shoots him a look that says he doen't really buy it but let's go of Roman's hand.\n'I believe they are the other way.'\n'Thank you' Roman says putting on his best smile. The man doesn't smile back. He makes his way in the diraction the man pointed to and spots Dr. Picani on the way. ",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 13
+      }
+    }
+  },
+  {
+    "id": 46,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 47
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 47,
+    "text": "Go to piccani's office",
+    "options": {
+      "id0": {
+        "text": "walk in",
+        "next": 48
+      },
+      "id1": {
+        "text": "wait",
+        "next": 55
+      }
+    }
+  },
+  {
+    "id": 48,
+    "text": "Janus is comming. Set everything up.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 50
+      }
+    }
+  },
+  {
+    "id": 49,
+    "text": "Janus is comming. Set everything up.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 50
+      }
+    }
+  },
+  {
+    "id": 50,
+    "text": "Janus comes",
+    "options": {
+      "id0": {
+        "text": "eavesdrop",
+        "next": 51
+      },
+      "id1": {
+        "text": "not eavesdrop",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 51,
+    "text": "'You haven't heard?' The man sounds suprised.\n'Heard what?'\n 'He went missing right after the friday Gala.' Curse it. It's been 3 days since then and he's only learning now. He's only been fired today and now he's behind on all the news.\n He needs to get his grip together if he wants to work as a reporter again. He'll greave for the dissapearence of his favourite actor later. Now it's time to gather intel. \n'What's with all the files?' He asks as he snaches yet another stack of paper, much to the mans anoyance.\n'I' The man strasses as he grabs the papers back from Romans hand. 'Am trying to find him.' This is the story that could get him a good job.\n'I'll help' Roman offered.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 52
+      }
+    }
+  },
+  {
+    "id": 52,
+    "text": "'Your `help`' the man makes quotation marks in the air 'wasn't asked for.'\n'But it's needed.' Roman says with a smug smirk. 'You look like you haven't slept in 3 days and I could use a job right now, ergo, we should work together.' He holds out his hand. 'Roman Prince. I'l guarantee you won't regret employing me.' The man ignores the outstreached hand in favour of pinching his nose. The gesture makes his glasses ride up his face.\n 'I can't believe I'm actually considering this.'\n 'And I guarantee It's the best decission you'll ever make' Roman grins as he snatches the papers for a third time. This time the detective doesn't stop him.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 53
+      }
+    }
+  },
+  {
+    "id": 53,
+    "text": "The man regards him for a moment.\n'You're a reporter, aren't you?'",
+    "options": {
+      "id0": {
+        "text": "'Not anymore'",
+        "next": 113
+      },
+      "id1": {
+        "text": "'Yes'",
+        "next": 54
+      }
+    }
+  },
+  {
+    "id": 54,
+    "text": "'Yes' Roman says with pride ande the man narrows his eyes.\n'Then I don't think I wan't you involved in this.'Roman tries to argue but the man ignores him. In the end Roman let's it drop. It's clear the man doesn't want to talk to him anymore.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 41
+      }
+    }
+  },
+  {
+    "id": 55,
+    "text": "Go and open door for us",
+    "options": {
+      "id0": {
+        "text": "refuse",
+        "next": 56
+      },
+      "id1": {
+        "text": "agree",
+        "next": 57
+      }
+    }
+  },
+  {
+    "id": 56,
+    "text": "You die... ups",
+    "options": {
+      "id0": {
+        "text": "restart",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 57,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 65
+      },
+      "id1": {
+        "text": "",
+        "next": 58
+      }
+    }
+  },
+  {
+    "id": 58,
+    "text": "Take a few sips and go open door",
+    "options": {
+      "id0": {
+        "text": "ge left",
+        "next": 60
+      },
+      "id1": {
+        "text": "go right",
+        "next": 59
+      }
+    }
+  },
+  {
+    "id": 59,
+    "text": "bullet to the head",
+    "options": {
+      "id0": {
+        "text": "restart",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 60,
+    "text": "Finds and open trap doors. ",
+    "options": {
+      "id0": {
+        "text": "get out",
+        "next": 61
+      },
+      "id1": {
+        "text": "join them shooting",
+        "next": 62
+      }
+    }
+  },
+  {
+    "id": 61,
+    "text": "Gets the hell out and sees Virgil",
+    "options": {
+      "id0": {
+        "text": "warn him of the shooting",
+        "next": 62
+      },
+      "id1": {
+        "text": "ignore and run home",
+        "next": 63
+      }
+    }
+  },
+  {
+    "id": 62,
+    "text": "lightly injuired but u join the picanni family",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 63,
+    "text": "he wants to go back home.",
+    "options": {
+      "id0": {
+        "text": "go back with him",
+        "next": 56
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 64,
+    "text": "Go back home and pack franctically",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 65
+      }
+    }
+  },
+  {
+    "id": 65,
+    "text": "they find you after two years. Bullet to the head :D",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 56
+      }
+    }
+  },
+  {
+    "id": 66,
+    "text": "'Virgil' The womans eyes go wide. Bingo. She turn around quickly.",
+    "options": {
+      "id0": {
+        "text": "Go after him",
+        "next": 68
+      },
+      "id1": {
+        "text": "focus on the mission",
+        "next": 67
+      }
+    }
+  },
+  {
+    "id": 67,
+    "text": "getting ready for the door opening",
+    "options": {
+      "id0": {
+        "text": "ge left",
+        "next": 60
+      },
+      "id1": {
+        "text": "go right",
+        "next": 59
+      }
+    }
+  },
+  {
+    "id": 68,
+    "text": "'Virgil. WAIT!' He looks panicked.\n'Don't call me that' He stage whipears while looking around franctically. A few patreons are looking at you but you glare at them and they start minding your own buisness.\n 'You have to get out' You stage whisper back. Virgil raises an eyebrow. 'Now' You insist.\n Virgil bites his lip and looks around for a while. He sighs before grabbing Romans hand and leading him a to a deseted part of the ballroom.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 69
+      }
+    }
+  },
+  {
+    "id": 69,
+    "text": "He crossed his arms and leaned agains the wall.\n 'Alright. Spill.'\n 'You need to evacuate. There will be a shooting any minute now.'\n'Oh really! And how would you know?'\n 'Please just listen...' Virgil eyes go wide.\n 'You're the one who's supposed to let them in'",
+    "options": {
+      "id0": {
+        "text": "Agree",
+        "next": 70
+      },
+      "id1": {
+        "text": "Deny",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 70,
+    "text": "'They've sent me on a suicide mission and I'm trying everything in my power to stop a massacre' Roman says. 'I don't know how I can stop them. Plz help.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 71
+      }
+    }
+  },
+  {
+    "id": 71,
+    "text": "'I've overheard sb talking about it. And I don't know who I can trust here or how many men they have on the inside'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 72
+      }
+    }
+  },
+  {
+    "id": 72,
+    "text": "They get to the back room and meet Janus",
+    "options": {
+      "id0": {
+        "text": "CLIFF_HANGER",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 73,
+    "text": "Roman feels himself go in an out of sleep until he hears a soft knock on the door.",
+    "options": {
+      "id0": {
+        "color": "green",
+        "text": "next",
+        "next": 31
+      },
+      "id1": {
+        "color": "purple",
+        "text": "next",
+        "next": 37
+      }
+    }
+  },
+  {
+    "id": 74,
+    "text": "As soon as he entered his jaw dropped. The place felt like a fairytaile come to life.\n Sure, Roman has attended parties before, but nothing on this scale. The whole place was oozing with money.\n He felt as giddy as if he were a child again, his mother reading him bedtime stories about princesses. Roman let himself soak in the magic for a while longer before focusing on his task, which is securing an interview with...",
+    "options": {
+      "id0": {
+        "text": "The current major",
+        "next": 7
+      },
+      "id1": {
+        "text": "Dr. Picani",
+        "next": 13
+      }
+    }
+  },
+  {
+    "id": 75,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 76,
+    "text": "And as soon as he did, his jaw dropped. The place felt like a fairytaile come to life.\n Sure, Roman has attended parties before, but nothing on this scale. The whole place was oozing with money.\n He felt as giddy as if he were a child again, his mother reading him bedtime stories about princesses. The journalist let himself soak in the magic for a while longer before the party gathered it's momentum.\n He was scanning the premise when he noticed someone who was unmistakably...",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 77
+      }
+    }
+  },
+  {
+    "id": 77,
+    "text": "'THOMAS SANDERS?' A few nearby patreons, including the actor turned around. Roman sunk into himself. `Way to make a first impression, idiot` Roman thought `You completly blew it`. But to the journalist suprise the man  extended his hand.\n 'That's me.' He said with a smile 'Pleasure to meet you,...' Roman took the hand without hesistation. 'Roman Prince, the pleasure is all mine'\n Mr. Sanders lit up.\n 'The journalist? Oh I've heard a lot about you from Joan! They told me you are a pleasure to work with.' It took every fiber in Roman's being not to squeel in delight. While he chose journalism as his career, writing stories was always his passion, and to hear that Joan apreciated his input enough to actualy menton him?\n Well, Roman doubted his evening could get any better.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 78
+      }
+    }
+  },
+  {
+    "id": 78,
+    "text": "He was about to ask Mr. Sanders for an interview when someone came along and dragged the actor away. The man gave a polite excuse and with that, he was gone.\nRoman decided to direct his focus to what he has been sent to do, wich was securing an interview with...",
+    "options": {
+      "id0": {
+        "text": "The current major",
+        "next": 7
+      },
+      "id1": {
+        "text": "Dr. Picani",
+        "next": 13
+      }
+    }
+  },
+  {
+    "id": 79,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 80,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 81,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 82,
+    "text": "Just when the Goon was about to pull the trigger he topled over in a string of curses.\n 'JUMP IN'\n Roman turned around and noticed a man in a black car. Door wide open, A gun in his hand, smoke comming out of it. His whole face obscured by a mask, only his eyes visible.",
+    "options": {
+      "id0": {
+        "text": "Jump in",
+        "next": 8
+      },
+      "id1": {
+        "text": "Argue",
+        "next": 21
+      }
+    }
+  },
+  {
+    "id": 83,
+    "text": "'Oh no, he's cute' Is the only thing that occupies Roman's mind. He was expecting a brute's face under the mask and not, Roman feels heat rising to his checks, not a heaven sent!\n 'Remus?' Virgil's hands are outstretched and his smile looks a little worried. and Oh no, why is he so close.\nThe doctor clears his throat. Loudly. \n'You're gonna need to remove your shirt before you start holding hands with my son.' Roman can feel his ears burning. Is he that obvious? Virgil snorts at the comment. And Roman knows he's f*cked.",
+    "options": {
+      "color": "purple",
+      "id0": {
+        "text": "next",
+        "next": 84
+      }
+    }
+  },
+  {
+    "id": 84,
+    "text": "It doesn't help that the drug starts to kick in and his mind starts to go fuzzy.\n'I think we're losing him doc.'Is the last thing Roman hears.\nHe wants a comment about true lover's kiss waking him up but he's words come out slurred, his eyelids impossibly heavy. \nHe wakes up to an empty room. His mind is horribly sluggish.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 27
+      }
+    }
+  },
+  {
+    "id": 85,
+    "text": "He tries to clean the grease stain from his pants that Remus left in a nearby fountain, but to no avail. He hopes no one will notice and makes his way to the party. He arrives a few minutes late, the party is already in full swing.\n Roman let himself breath out a sigh of relief. He doesn't give himself time to soak in the party and instead focuses right away on finding...",
+    "options": {
+      "id0": {
+        "text": "The current major",
+        "next": 7
+      },
+      "id1": {
+        "text": "Dr. Picani",
+        "next": 13
+      }
+    }
+  },
+  {
+    "id": 86,
+    "text": " He carries Roman all the way into the house. The other man following worriedly behind. Virgil brings him into a room filled to the brim with little bottles and, what Roman assumes to be, medical equipment. Virgil lets him down getly onto the operating table and the other man raises a syringe. Roman immediatly shrieks away.\n'Whats that? Get that away from me!' He protest. Are they trying to kill him?\n'Oh no.'Virgil turns to him, hands on his hips. Last time you insisted on staying awake you gave me a goog when I was trying to calm you down. You're staying down this time.'\n 'If you think I will let myself be drugged, you have another thing comming up sunshine...'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 87
+      },
+      "notes": "goog- black eye"
+    }
+  },
+  {
+    "id": 87,
+    "text": " 'Done' Roman looks at the other man. The syringe in his hand is empty. He turns back to Virgil, who, despite having his head covered with a mask, looks entirerly too smug for Roman's tastes.\n 'Can't believe it's still this easy to distract you.' Roman prepares to rebutt him but Virgil takes off his mask and smiles.",
+    "options": {
+      "id0": {
+        "text": "he's young",
+        "next": 88
+      },
+      "id1": {
+        "text": "he's cute",
+        "next": 83
+      }
+    }
+  },
+  {
+    "id": 88,
+    "text": "It takes Roman aback how young he looks. He was expoecting a man in his 40, but Virgil barerly looks 20. The man sits next to Roman and holds out his hand.\n'Come on. I'll hold it until the drug kicks in.' Roman debates taking him up on the offer or not when the the doctor clears his throat. Loudly.\n 'You're gonna need to remove your shirt before you start holding hands with my son.' Virgil snorts at the commen.\n 'My shirt?' Roman asks, his words slighty slurred together. Oh no, they really did drug him and it stated to kick in. ",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 20
+      }
+    }
+  },
+  {
+    "id": 89,
+    "text": "'...I'm not looking forward to Dee's scolding...'\n 'Well at least Remus's safe'\n'Yeah. but who is this guy?'\n'Do yo think it could be...' Virgil shakes his head.\n 'No that's impossible.'\n Whatever they are talking about Roman gets the feeling it isn't meant for his ears.",
+    "options": {
+      "id0": {
+        "text": "Go back to bed",
+        "next": 30
+      },
+      "id1": {
+        "text": "Keep eavesdropping",
+        "next": 29
+      }
+    }
+  },
+  {
+    "id": 90,
+    "text": "Roman decides not to risk it. Especially since there's a chance he'll find the assistant. He scans the room in search of them. The journalist turns around only to be created by the person he's been looking for standing right behind him. He nearly jumps out of his skin.\n 'Lost?' The man asks, his mouth forming a smirk.\n 'Actually no.' Roman puts on his best smile. 'I was looking for you.' \nThe man blinks a few times before he responds.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 91
+      }
+    }
+  },
+  {
+    "id": 91,
+    "text": "'Me? 'What do you need me for?'\n'I was hoping to exchange a few words with the Mayor but the ladies were determined to keep him all to himself.' The man chuckled at that.\n'He does have that charm on them.' The man responds..\n'On the subject of charming, what should one do around here to into the Mayors good graces and possible secure an interview? As far as I noticed he usually speaks to women. Would putting on a nice dress help me get his attention.' The man lets out a loud laugh. A few nearby patrons give them a weird look, and he was quick to put his hand over his mouth, but his shoulders kept shaking. Roman feels unreasonably proud at that. ",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 92
+      }
+    }
+  },
+  {
+    "id": 92,
+    "text": "'Sorry.' The man says. His voice is still light with laughter. 'You just reminded me of someone.'\n'And here I thought my idea was rather unique' \n 'You'd be surprised'\n'Any tips then?'\n'You might wanna try the dress.' The man snickers. 'I heard it works wonders.'\n'I'll keep that in mind' Roman grins. The man just shakes his head. 'In case my master-plan doesn't work, would you consider asking the Mayor if could spare some time for an interview?'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 93
+      }
+    }
+  },
+  {
+    "id": 93,
+    "text": "'You can ask him yourself when he comes back.' The two men wait for the meeting to be over. The assitent proves to be a great talking companion. By the time the Mayor comes back Roman almost forgets the reason he was waiting with the assistent in the first place.\n The Mayor is very friendly and Roman has no trouble securing an interview.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 94
+      }
+    }
+  },
+  {
+    "id": 94,
+    "text": "Monday rolls around and Roman makes his way to the Mayor office. He arrives well ahead of time and skimms over the his notes before he's invited into the office.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 95
+      }
+    }
+  },
+  {
+    "id": 95,
+    "text": "Interviewing Mr. Dolos was a… peculiar experience. The man was pleasant, sure, but Roman got out of the interview feeling the Mayor learned far more about Roman then the journalist learned about the Mayor. But Roman was a stubborn man and he was determined to make his notes into his best interview yet.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 97
+      }
+    }
+  },
+  {
+    "id": 96,
+    "text": "Roman's newspaper begins to grow in popularity and soon starts to rival `the Cartoonist`. Mr. Janus Dolos gets re-elected the following autumn.",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 97,
+    "text": "The Mayor is declared deceased the next day. The police report he's been a victim of a crossfire in the `snake` area. Roman decides to publish an article in his memory which proves to be a great hit.\nWith the current Mayor deceased it comes as a suprise to no one that Dr. Picani is elected as his successor in the following weeks.\nRoman continues to work hard in the newspaper and soon enough it becomes popular enough to rival `the Cartoonist`.",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 98,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 99,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 100,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 101,
+    "text": "Roman eats his oatmeal in surrender. Roman's mind starts to clear up, but the pain in his side is getting worse. Virgil has stayed behind and simply watches him for some reason. Well watching isn't really the right word to describe it as the man keeps looking everywhere except at Roman.\n He has cleared a small table of medical equipmnet and sat himself atop of it, despite there being a perfectly good chair nearby. He looks more awkward just sitting there than Roman currently feels.\n He debates wheter he should tell the man he doesn't have to keep guard over him, but in the end he bites his tounge.\n  After a few minutes the doctor joins them in the medical room. He gives Roman some pain-killers and a lecture about staying safe at night and avoiding dangerous shortcuts while simultaniously assuring Roman he did nothing wrong. This seems to amuse Virgil a great deal.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 103
+      }
+    }
+  },
+  {
+    "id": 102,
+    "text": "horrible grammar and spelling\nkidnapping \n light swearing (all censored)\n gun violence\n blood\n injury\n major character(s) death\nocassional caps\n brief mention of spiders\nIf you notice more trigger warnings pls let me know and i'll add them",
+    "options": {
+      "id0": {
+        "text": "proceed",
+        "next": 0
+      }
+    }
+  },
+  {
+    "id": 103,
+    "text": "'I think you're confusing him more than you're helping, dad.' The young man says.\n 'The poor boy got shot twice yesterday, kiddo. We're gotta make sure he's feeling well before we send him home.' The doctor seems far friendlier than he did yesterday. But Roman can't really blame him, operting someone on a friday night doesn't really seem all that fun.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 105
+      }
+    }
+  },
+  {
+    "id": 104,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 35
+      }
+    }
+  },
+  {
+    "id": 105,
+    "text": "'I think Remus would kill for one of your `nicer` lectures' The doctors hands land on his hips.\n'The only thing he's gonna kill is the both of you if he keeps this up.'\n 'He won't. I keep an eye on him. Beside...'\n 'You gotta see the good in everyone.' The doctor snorts. 'Turning my own words against me, eh kiddo?'\n 'Well...'\n 'Alright, alright now out with you, I need to change the boys bandages.'\n Virgil hops off the table and closes the door behind him.",
+    "options": {
+      "id0": {
+        "text": "ask about Virgil",
+        "next": 107
+      },
+      "id1": {
+        "text": "Ask about Remus.",
+        "next": 106
+      }
+    }
+  },
+  {
+    "id": 106,
+    "text": "'Who's Remus?'Roman asks as soon as Viril leaves the room.\n'A family friend' The doctor face looks a litte strained so Roman decides not to poke him. In the End he simply gets his bandages changed and handed some pills. The doctor instructs him to take them when the pain worsens but not more than twice a day.\n The doctor accompanies Roman outside where Virgil is already waiting, leaning against the car.\n 'Remember to drop by if the wounds get infected.' The doctor instructs him. \n'Thank you a lot Doctor...'. Virgi jumps up abrupty.\n 'DAD! NO!'\n 'Panini.' Virgil groans loudly and Roman has to supress a laugh. More at Virgil's reaction than the name itself. The poor man looks mortified. The name wasn't that terrible.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 108
+      }
+    }
+  },
+  {
+    "id": 107,
+    "text": "'You two seem to get along well.'The doctor laughs.\n'Virgil tends to get in trouble but he really is a good kid.' The doctor says with a smile on his face.\n 'I think as a doctor, you probably drilled helping others into his core.'Virgil's father lets out a chuckle.\n 'Oh no, he was always a sensitive boy. He used to gather all the spiders from a field as a child before winter.' The doctor visible shivered at th thought. 'Can't say I miss that particular habbit though.'\n'Really?' Roman asks amused. He bet tiny Virgil with his arms full of spiders must have been a sight to behold. 'Why's that?'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 112
+      }
+    }
+  },
+  {
+    "id": 108,
+    "text": "'Well thank you, Doctor Panini. And you too Mr. Panini.' He says as he turns to Virgil who tries really hard to sink into his sweater.'I think it's a lovely family name.' Roman adds, which earns him another loud groan.\n 'One more comment from you and I make your dissapearence look like an accident.' The intimidation loses all it's power when Virgil's face is redder than a tomato's. \n'Now, now kiddo, be nice.' Virgil made a throat cutting motion before getting into the car. This was met with a snicker from Roman who waved at the Doctor and got into the car as well.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 35
+      }
+    }
+  },
+  {
+    "id": 109,
+    "text": "The doctor accompanies Roman outside where Virgil is already waiting, leaning against the car.\n 'Remember to drop by if the wounds get infected.'\n 'I will!. Thank you Dr. Patton.'\n 'Feel free to just call me Patton, kiddo.' Roman waves as a goodbye to the doctor walks to the car, grinning like a madman.\n'You look awfully cheerful' Virgil comments\n'Oh Patton told me a funny story.' Virgil face turns into one of pure terron.\n 'What did he tell you' Roman just grins and gets into the car.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 35
+      }
+    }
+  },
+  {
+    "id": 110,
+    "text": "Monday can't come soon enough. Roman is unable to stay still.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 141
+      }
+    }
+  },
+  {
+    "id": 111,
+    "text": "Roman eats his oatmeal in surrender which seems to amuse Virgil for some reason. His mind starts to clear up, but the pain in his side is getting worse.\n  After a few minutes the doctor joins them in the medical room. He gives Roman some pain-killers and a lecture about staying safe at night and avoiding dangerous shortcuts while simultaniously assuring Roman he did nothing wrong. This seems to amuse Virgil even more. Soon enough he's chased out of the room by his father.\n The doctor reaplies Roman's bandages and politly asks Virgil to take the journalist home.\n He tells Roman to drop by in case his wounds get infected and Roman promisses to take him up on the offer.",
+    "options": {
+      "id0": {
+        "text": "nxt",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 112,
+    "text": " 'He was worried they'll freeze to death. I had to put my foot down the year he tried to bring some wasps home. '\n 'Oh that's horrible.' Roman bursts out laughing, holding his injuired side. The pain spikes again but Roman is far to amused to care.\n 'I love my strange dark son but I don't think I could handle raising him again.' the doctor says as he secures the bandages. 'I think we're all set here Mr...'\n'Oh, call me Roman.'\n'It's a pleasure to meet officialy meet you Roman.' The man smiles. You can call me Patton, kiddo.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 109
+      }
+    }
+  },
+  {
+    "id": 113,
+    "text": "Tha man gives him a curious look.\n'It's a long story' Roman elaborates, his not exactly sure he should share his late night escapade with the man. Whatever Virgil was doing there probably wasn't legal and he owed his life to the man. Granted, Virgil thought he was some Remus guy while saving him, byt Roman was grateful nonetheless.\nThankfully the man decides not to prod.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 114
+      }
+    }
+  },
+  {
+    "id": 114,
+    "text": "Roman finds himself employed by the detective the same afternoon. The pay isn't great but it will allow him to keep a roof over his head for the time being. \nEmploying Roman has its benefits to the detective as well. Not an hour after the former journalist has been employed the detective dozes off in his chair.\nRoman decides to let him be while he slowly reads through the files. The man wakes up well into the evening.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 115
+      }
+    }
+  },
+  {
+    "id": 115,
+    "text": "Morning sleeping beuty. Roman can't help but comment. The man sizes him with glare that would make Roman falter if not for the fact that one of the papers stuck to the detective's face.\n Roman holds up a piece of paper with the words 'the dark corner' written in red ink on top of the page.\n 'What's that?' He asks, pointing to the note. The detective adjusts his glasses, making the piece of paper fall down.\n 'A bar owned by the Mayor.'\n'What? The Mayor has a bar?'\n“I thought you were a journalist. Shouldn't you know that?' The detective says, clearly amused. Roman will not stand for this mockery.\n'A journalist, not a stalker.' He rebutts offended.'And I don't see how owning an establishment is suspicious. Mayor or not.' The detective just shakes his head. 'Wait do you think that Mr. Sander's disappearance has something to do with this.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 116
+      }
+    }
+  },
+  {
+    "id": 116,
+    "text": "'I spoke to Joan the other day and they said that they saw Thomas speaking with the Mayor just before he disappeared. I decided it was worth looking into.'\n'Thomas?'\n'Yes, I believe that's his name.'\n'No just… I didn't take you for someone who speaks of people in an innformal way.' Roman said. 'No offence.'\n'Thomas is my friend. I don't see why I shouldn't be on a name basis with him.'\n'You're friends with Thomas Sanders?!?' Roman raises his voice in disbelief. Is this guy really friends with everyone? Can Roman please join in on the trend?\n 'You seem surprised.'\n'It's just hard to imagine you being friends with the man' Or anyone. The detective seemed like someone who would devote themselves to work. How did he even met Mr. Sanders? Roman didn't have to wait long for his question to be answered.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 117
+      }
+    }
+  },
+  {
+    "id": 117,
+    "text": "'We were roommates at University for 3 years.' What? 'He was quite gifted, it's a shame he threw it away for `acting`' The detective said the last word with so much disdain the Roman would have fought him on the spot if not for the fact that he was still trying to comprehend that his current boss used to be roommates with his biggest idol.\n'I think we should go tonight.'\n'Excuse me?'\n'To the dark corner.'The detective specified.'I'd like to investigate the place. And as of now it's our strongest lead.'The man pinched his nose.'Just please be subtle.'\n'Subtle is my middle name'The detective shot him a look. Ok Roman knew he stood out with his on-point style, but they are going to a bar after all. His good wardrobe will help them blend in. The man just sighed and got up.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 118
+      }
+    }
+  },
+  {
+    "id": 118,
+    "text": "The detective made his way to a cabinet and retrieved something from one of the drawers. Once he turned around Roman noticed what the man was holding.\n'Is that a gun?'\n'How observat of you.'The man rolled his eyes and handed the object to Roman. 'Hide it well'\n 'Wait. Wait. Wait' Roman's eyes went wide. 'You want me to shoot people?'\n'I hope you don't have too.'The man responded. Roman wasn't sure if the detective wanted to avoid a conflict or if he douted Roman's skill. 'I..ummmm. never shot a gun.' The detective's eyebrow shot up. His parents, like any reasonable farmers, had a shotgun sure, but Roman was never allowed to use it. His father took Roman's brother shooting a few times but, well. Let's say he wasn't to keen on having Roman do `manly` things. The detective sighned again.\n'I'll teach you then.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 119
+      }
+    }
+  },
+  {
+    "id": 119,
+    "text": "They arrived at the dance-club somewhat late. The gin joint was well hidden. What suprised Roman the most was that the detective clearly knew the password. Just who was this man. They made it inside. The detective moved with a purpose and Roman followed him in a hurry. The man was taller and lanier than Roman and navigated through the crowd with ease whereas Roman's shorter and sturdier build proved to be a disadvantage here.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 120
+      }
+    }
+  },
+  {
+    "id": 120,
+    "text": "The detective flashed a card to, what Roman presumed was, a staffmember. Soon enough they were let through the door to a far more secluded area and Roman suddenly felt very under-dressed. Not a minute since they went through the door and a flapper trapped the detective in her feather boa. 'Detective' She said in an excited voice. 'I haven't expected to see you so soon' Leaning closer, her wispered something.\n'No.'The detective said in a flat voice. 'Where's Mr. Dolos?'\n 'Oh you are no fun' the lady lamented playfully. 'Will you at least introduce me to your companion?' She asked as she leaned on the detective, who seemed unheeding to her advancess.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 121
+      }
+    }
+  },
+  {
+    "id": 121,
+    "text": "'I don't see the point. You can introduce yourself perfectly well.'Roman scoffed. This was no way to treat a lady. Not that he ever dated a lady. Still basic manners applied.\n'Pardon his bluntness, he didn't sleep well as of late.' He said while extending his hand. 'It's a pleasure to meet you...' The woman looked at him for the first time and her eyes went. Roman noted how awfully familiar she looked, but he couldn't quite place her face. She collected herself after a while and shook Roman's hand.",
+    "colo": "#D2C0AC",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 122
+      }
+    }
+  },
+  {
+    "id": 122,
+    "text": "'Pleasure to meet you, Mr. Prince, I'm the Dutches.'\n'The Dutches? That's a rather peculiar name.'\n'Oh it's just their stage name. You see...' The detective was unable to finish as the Dutches stomped firmly on his foot, making the man wince.\n'You really gotta know better than to spill a lady's secrets, darling.' She clasped her hands.'Now why don't we get your friend a table while I take you to the man.'",
+    "options": {
+      "id0": {
+        "text": "insist on comming along-(unfinished route)",
+        "next": 200
+      },
+      "id1": {
+        "text": "let it go",
+        "next": 123
+      }
+    }
+  },
+  {
+    "id": 123,
+    "text": "Roman stays behind. He feels slightly offended that the detective didn't insist Roman comes along but then again, the man barerly knew him.\n He decides to take this oportunity to scan the premise and finds himself with a drink i his hand and observing the dance floor. It's disgusting and Roman nearly spits it out, but manges to keep it down. A series of caughs errupts from him. Why do people drink this on a regular basis? Somebody next to him laughs and Roman looks at them. It's am unreasonably tall woman, her gaze is focused on the dancfloor.\n'First time?' She asks in a deep voice, still not looking at Roman.\n 'That telling?' The woman smiles.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 124
+      }
+    }
+  },
+  {
+    "id": 124,
+    "text": "Her voice is awfully familiar, but it doesn't fit to any of his female friends. Maybe she's a singer?\n'Excuse my fowardness, but I can't quite shake of the feeling that I know you.' The woman turns to him and her eyes go wide. 'Are you perhaps a famous singer?\nShe lets out a nervous laugh, trying to shield herself with a fan.\n'Oh, not at all, though I'm flatteres.' ",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 265
+      }
+    }
+  },
+  {
+    "id": 125,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 126
+      }
+    }
+  },
+  {
+    "id": 126,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "The current major",
+        "next": 127
+      },
+      "id1": {
+        "text": "Dr. Picani",
+        "next": 13
+      }
+    }
+  },
+  {
+    "id": 127,
+    "text": ".",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 128,
+    "text": "The Mayor smiled as soon as he notices Roman and excuses himself from the circle.\n'You've got here fast' He says. 'I wasn't expecting either of you to arrive this early into the night?'",
+    "options": {
+      "id0": {
+        "color": "no",
+        "text": "Play along-CLIFF",
+        "next": 1
+      },
+      "id1": {
+        "text": "Clear things up",
+        "next": 129
+      }
+    }
+  },
+  {
+    "id": 129,
+    "text": "'I think you mixed me up with somebody.' The Mayor scans Roman up and down. His eyes go wide for a second before he collects himsef.\n'Oh I apoligize. I took you for my friend. '\n'No need to apologize.'Roman says with a smile' But now that I have your attention I would have a favor to ask.'\n'And what would that be, my boy?'\n'I would like to conduct an interview with you.'the Mayor smiles.\n'Well I suppose there's no harm in that. Why don't you come on Monday to my office? ",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 94
+      }
+    }
+  },
+  {
+    "id": 130,
+    "text": "The interview rises the popularity of Roman's newspaper.\nJanus Dolos is re-elected as Mayor the following autumn.",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 131,
+    "text": "'Great.' He says. 'Why don't you come over in the afternoon and we can get you started.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 134
+      }
+    }
+  },
+  {
+    "id": 132,
+    "text": "Roman approaches the table.\n'Excuse me, is this seat taken?'\n'Not at all' The man smiles putting down his book. Roman's jaw almost drops.\n'Dr. Picani?' The man laughs and takes out his hand.\n'The one and only' Roman shakes it.\n'Roman Prince, It's a pleasure to meet you sir.'\n'Oh, you're the one who solved that theatre myster.' Roman is flabbargasted.\n'You've heard of me?' The man laughs",
+    "options": {
+      "color": "green,pink",
+      "id0": {
+        "text": "next",
+        "next": 133
+      }
+    }
+  },
+  {
+    "id": 133,
+    "text": "'You might have heard about my child, Elliot, is the owner of `The Cartoonist`. They keep me updated on news and I must say they were quite jellous of the story you had written. They said, they like your writing style.'\n'I think I'm dreaming' The Doctor laughs again.\n'Say would you like to start a trial period at the magazine. Elliot would be happy to have you on board.\n'Like to? I'd love to!'\n'How about you come to the office around four? I'll inform Elliot of the meeting.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 131
+      }
+    }
+  },
+  {
+    "id": 134,
+    "text": "They finished their meals and said their goodbyes.\n Roman was far to excited and practically run back home to collect their portfolio. It was barerly noon when he finished so the journalist decided to treat himself to a short walk to clear his mind. He showered and changed once he came back and despite it being only 2 in the afternoon the man decided to slowly head to `the Cartoonist`",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 135
+      }
+    }
+  },
+  {
+    "id": 135,
+    "text": "The nice front desk lady directs him to Dr. Picani's office. The coridoor was empty so Roman decided to sit in the waiting area and simply go over his notes once more. He knows he was already promised employment, but making a goood first impression certainly couldn't hurt.\n He sat down and started reading when he heard a scream and something breaking. The sounds seemed to come from the office.",
+    "options": {
+      "id0": {
+        "text": "check if everything is ok",
+        "next": 238
+      },
+      "id1": {
+        "text": "ignore it",
+        "next": 136
+      }
+    }
+  },
+  {
+    "id": 136,
+    "text": "Roman shook his head. Whatever it was, he's sure it's not his buisness.\n Roman has to wait a for about an hour before Dr. Picani himsef comes through the office door. His shirt and hair slightly disshelved. The man raises an eyebrow.\n'You're awfully early' Roman laughs\n'What can I say? An oportunity like this doesn't come everyday.'\nDr. Picani smiles and invites Roman into the office.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 137
+      }
+    }
+  },
+  {
+    "id": 137,
+    "text": "The interview goes rather quick. As the Doctor predicted his child, Elliot, is very pleased with Roman's work and they sign the contract the same day.\n Picani gets elected as Mayor the following autumnPicani gets elected as Mayor the following autumn.\n Roman decides to visit the Doctor and his son Virgil once his wounds are healed but he's met with a deserted house. He never lears what happened to them.",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 138,
+    "text": "Roman tries to see the lady's face behind the fan, but she's taller than him so it proves difficult.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 139
+      }
+    }
+  },
+  {
+    "id": 139,
+    "text": "He tries to walk out but the people are faster and soon he find himself trapped.\n That's when Picani opens one of the ofices side-dors and steps out. He spots Roman and his face goes dark. He looks nothing like his public image anymore.",
+    "options": {
+      "id0": {
+        "text": "oppose without question",
+        "next": 140
+      },
+      "id1": {
+        "text": "hesitate",
+        "next": 241
+      },
+      "id2": {
+        "text": "agree",
+        "next": 242
+      }
+    }
+  },
+  {
+    "id": 140,
+    "text": "death.duh!",
+    "options": {
+      "id0": {
+        "text": "restart",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 141,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 144
+      },
+      "id1": {
+        "text": "ignore it",
+        "next": 136
+      }
+    }
+  },
+  {
+    "id": 142,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 143
+      }
+    }
+  },
+  {
+    "id": 143,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 144,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 145,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 146,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 147,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 148,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 149,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 150,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 151,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "nxt",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 152,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 153,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 154,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 155,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 156,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 157,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 158,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 159,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 160,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 161,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "nxt",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 162,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 163,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 164,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 165,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 166,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 167,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 168,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 169,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 170,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 171,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "nxt",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 172,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 173,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 174,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 175,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 176,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 177,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 178,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 279,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 280,
+    "text": "Roman collects evidence",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 281
+      }
+    }
+  },
+  {
+    "id": 181,
+    "text": "enough time to prepare the case",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 282
+      }
+    }
+  },
+  {
+    "id": 182,
+    "text": "You sue Picani and actyally win this time. Janus doesn't become the mayor as it leaks out he has been involved in smuggling alcohol",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 183,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 184,
+    "text": "you find a wounded Logan",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 185,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 186,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 187,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 188,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 189,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 190,
+    "text": "Virgil is on his feet in a matter of sedonds and Roman rushes to help him collect his friends. Virgil has the woman secured in his arms while Roman picks up her companion. Virgil looks at the small gunman.\n'Can you carry two people?' He asks Roman and the journalist nods. His early years at the farm have accustomed him to doing a lot of heavy lifting.\nThey rush along the empty corridors and soon enough they find themselves among the remaining patrons that are still trying to flee the building.\n They male it Virgil's car and Roman keeps an eye at the goon they have kidnapped while Virgil drives at an allarming speed.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 191
+      }
+    }
+  },
+  {
+    "id": 191,
+    "text": "Soon they arrive on the outskirts near a familiar builind and Virgil keeps honking the clackson while they enter the driveway. He stops the car and rushes to the side to retrive his friends.\n Soon enough Virgils father comes running out of the house, hurriedly wrapping a blanket around himself.\n 'What happened?' He shouts from the doorway as Virgil drags the dutches copanion out of the car. The Doctor eyes go wide.\n 'Dee?' Virgil nods. The doctor doesn't say another word as he gently scoops `Dee` into his arms and carries him into the house. Virgil does the same to the dutches and Roman is left to guard the goon they have kidnapped and left in the car.\nHe looks young. Roman decides to pick him up and carries him into the house.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 192
+      }
+    }
+  },
+  {
+    "id": 192,
+    "text": "Roman waits outside the medical room, wrapped in the blanked the doctor has dicarded while Virgil and his dad are tending to the wounds of the three people they dragged here with them. He has dozed off by the time they are finished as he feels himself jerk away when Virgil opens the door.\nThe poor man looks exhausted and plucks next to Roman on the floor.\n'Are....Will they?'Roman begins.\n'They're alive'Virgil says with a light tug up on his lips and Roman breaths out. What a relief.'I ummm... thank you' Virgil says.\n Roman shrugs off the blanket and hands it to Virgil, who takes it greatfully.\nThey don't have to wait long for the doctor to emerge, but Virgil is asleep by the time he does.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 193
+      }
+    }
+  },
+  {
+    "id": 193,
+    "text": "Roman notices the man Virgil called Dee standing in the doorway as well. One of his hands is on the Doctors shoulder. Once he notices Roman and Virgil he smiles.\n'Thank you.' He says\n'You're welcome'\nThe doctor leaves the man in the doorway while he goes to fatch a cane that's next to the front door.\nThe Doctor scoops up Virgil and excuses himself with a yawn. The Doctor makes his way upstairs with a yawn.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 194
+      }
+    }
+  },
+  {
+    "id": 194,
+    "text": "Once the Doctor and his son vanish upstairs the man turns to him.\n'Can we talk?' Roman nods suprised. 'Your birthname isn't Roman Prince, is it?' Oh no. Either the Doctor or Virgil must have told the man that Roman-'It was Smith, wasn't it?' The man asks and Roman stops dead in his tracks. That's not where he thought the conversation was going at all.\n'How did you-' The man smiles and puts his hand on Roman's shoulders.\n 'Welcome to our little family kid is all he says before he makes his way upstairs, leaving Roman all the more confused.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 195
+      }
+    }
+  },
+  {
+    "id": 195,
+    "text": "Thankfully the next day brings answears. The man they have captured, Kai, tells them after a little convincing that he has been working for the Picani family. In hopes to bring the Doctor to justice the gang sugests to have Roman work as a spy under the guise of being a regular journaliust at the office.\n Thankfully Roman manages to secure a position at the newspaper.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 197
+      }
+    }
+  },
+  {
+    "id": 196,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 197
+      }
+    }
+  },
+  {
+    "id": 197,
+    "text": "Roman joins `the Cartoonist` it used to be his dream since he came to this city but since he learned the truth about Picani his only goal is to bring the man down. He manages to secure the records Kai has told the about. Once they have enought evidence Roman writes an article and submits it to 'Talents' newspaper.\n His article brings a lot of outrage and they finds himself being sued by Dr. Picani.\nThanks to the evidance they gathered they manage to win the case.",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 198,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 199,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 200,
+    "text": "'I believe the detective mentioned I was his assistent' Roman interjected. The detective wanted them to investigate the place and Roman hoped to find some clues.\n'That is a good point.' The man backs him up. 'I believe Mr. Price should come along' The woman lets out a long suffering sigh and leads them both through a coridor to the Mayor's office.\nThe Mayor requests to speak with the detective in private which lead Roman to wait outside with the dutches.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 201
+      }
+    }
+  },
+  {
+    "id": 201,
+    "text": "They stay there in silence and Roman keeps stealing glances at the woman.\n'If you're trying to decide if you should ask me out the answear is no' The woman states unpromted and Roman's checks fluster slightly.\n'No I wouldn't...I mean I'm sure you're lovely...but I don't really date woman... Or dat in general...I mean...' The woman laughs as Roman stumbles over his words. 'It's just. I know I know you, but I can't figure out from where.'\n 'I'm offended you still haven't recognized me, brother dearest.'\n'Roman?' Roman eye bulge open. 'But I thought you were...'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 202
+      }
+    }
+  },
+  {
+    "id": 202,
+    "text": "'Dead?' Something sad flashes through Roman's brother eyes. 'As far as our `family` is concerned I might as well be.' They stay in a state of awkward silence for a while. What do you tell a sibling who you thought was dead for over a decade anyway.\nMaybe the problem isn't what to ask but where to start. Questions start to flood Romans mind. So much he wants to know. He looks at Remus who's avoiding his gaze.\n He doesn't know if he can. If he's allowed to, not after... His train of thought is interrupted when his brother turns to Roman and grins. \n'I didn't know you liked me enough to steal my name, Ro.' Roman's face flushes red. \n'It's a nice name. Don't flatter yourself.' He didn't need to know that Roman wanted to honour him. It would go straight to his idot brothers head, who was still grinning at him.\n'Awwwww. You do care about me.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 203
+      }
+    }
+  },
+  {
+    "id": 203,
+    "text": "'Shut up'\n'I'm touched.'\n'One more word and I'm gonna touch your face with my fist.' This is familiar and Roman feels himself relax slightly, only to be interrupted by distant shooting and screams. The brothers share a look and Roman's brother bursts the office door open.\n'We've got a situation boss.' He states. Both the detective and Mr. Dolos look at them in suprise. They don't need to elaborate as the shooting becomes louder.\n 'SH*T' the Mayor swears loudly and jumps to his feet in no time. 'We need to go.'\n'I need to get Virgil!' The mayor turns to the brothers.\n 'Where's Virgil?'Roman's brother doesn't met the mayors gaze. '",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 204
+      }
+    }
+  },
+  {
+    "id": 204,
+    "text": "'Where the hell is Virgil Remus?' The Mayor sounds slighly more panicked. Another round of gunshots echoes nearby.\n'Downstairs.'\n'He's WHERE?'The mayor all but hisses at Remus who backs down slightly.\n'I messed up, ok? I know.' Remus says and he sounds as panicked as the Mayor looks. 'I'll get him.' He says before Mr. Dolos gets a chance to response and with that he's out of the door.'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 205
+      }
+    }
+  },
+  {
+    "id": 205,
+    "text": "And without a second thought Roman rushes after his brother. He thought the bastard was dead for over a decade and he refuses to lose him again without getting an explenation.\n Keeping up with his brother isn't easy and Roman was starting to run out of breath. They run dowstairs and that's when they saw a woman held hostage by two men. Remus ripped off one of his shoes in mid run and threw it at one of the attackers, kocking him to the ground and distracting the other. This proved to be enough time for the woman to puch thye other man.\nThe next thing he knew Reoman was holding a small revolver, smoke comming out of it.\n'Wait' the woman shouted and a bang echoed through the corridor.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 206
+      }
+    }
+  },
+  {
+    "id": 206,
+    "text": "'Why did you kill them both?' Roman looked down and sure enough blood seeped from the two men. He felt like gagging\n'You're welcome' Remus redponded gleafully while the woman looked more exasperated than scared.\n'Let's go' The woman turned and that's when she must have sotted Roman as her eyes went wide before she glanced back at Remus. That's when it clicked in Roman's head.\n'Virgil?!'\n'Ummmm.... no?' The tall man responded.\n 'You can compliment my dress choice later' Remus interrupted with a grin and grabbed Virgil's arm making the man trip and almost fall to the ground.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 207
+      }
+    }
+  },
+  {
+    "id": 207,
+    "text": "The three of them rushed down the corridor that started to slowly fill up with panicked patrons and the three man had to stay close to the wall to avoid getting trampled. The three of them ducked behind small door and as soon as they entered Roman understood why. The room, although small, is filled to the brim with firearms. Remus strode forward and tossed one of the riffles to Virgil, who caught it efforlessly. He handed another one to Roman.\n'I ummmm...Not the best shooter.'Roman admited. His father insisted that it wans't `ladylike` to shoot and it's not like Roman had any oportunities to shoot in the City.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 208
+      }
+    }
+  },
+  {
+    "id": 208,
+    "text": "'Still beats having no gat' Remus said with a snort and showed the riffle into Roman's hands.\n Remus opens the door only to come face to face three armed men.\n'SHIT' He swears loudly as he ducks behind the door. The others start to shoot.",
+    "options": {
+      "id0": {
+        "text": "next-CLIFF",
+        "next": 1,
+        "nexty": 209
+      }
+    }
+  },
+  {
+    "id": 209,
+    "text": "Roman writes the gunning story and submits it to a papaper-Tallen's",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 210
+      }
+    }
+  },
+  {
+    "id": 210,
+    "text": "Dr.Picani sue's them",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 211
+      }
+    }
+  },
+  {
+    "id": 211,
+    "text": "Thanks to Logan they win :D",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 212,
+    "text": "Roman makes his escape. He never sees the man again but he manages to land a job Position at the Cartoonis. He's curious to what happenned but he will never find out",
+    "options": {
+      "id0": {
+        "text": "epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 213,
+    "text": "normal chatter",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 214
+      }
+    }
+  },
+  {
+    "id": 214,
+    "text": "Suddenly screams echo in the hallway and gunshoots echo through the building. Virgil's eyes go wide and he dashes down the corridor, away from the exit.",
+    "options": {
+      "id0": {
+        "text": "run after Virgil",
+        "next": 216
+      },
+      "id1": {
+        "text": "Find Logan",
+        "next": 215
+      },
+      "id2": {
+        "text": "run away",
+        "next": 212
+      }
+    }
+  },
+  {
+    "id": 215,
+    "text": "You run after him in hopes to find Logan. He doesn't know what's going on but the detectived might be able to get them out in one piece.\n It's getting harder to follow Virgil as a stream of people comes into the corridor in attempt to flee the massacre.",
+    "options": {
+      "color": "purple",
+      "id0": {
+        "text": "next",
+        "next": 217
+      }
+    }
+  },
+  {
+    "id": 216,
+    "text": "Roman worriedly runs after Virgil as peaople start pilling into the empty corridor. He grabs the man's hand to prevent separation as they run forward, against the stream of people.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 217
+      }
+    }
+  },
+  {
+    "id": 217,
+    "text": "The two man make it to Mr. Dolos office. The door wide open. Virgil and Roman take a quick glance into the office. It's slightly trashed",
+    "options": {
+      "id0": {
+        "color": "no",
+        "text": "search the room-CliffH",
+        "next": 1
+      },
+      "id1": {
+        "text": "go into the office",
+        "next": 218
+      }
+    }
+  },
+  {
+    "id": 218,
+    "text": "Behind the desk they find Logan who is bleeding out. Virgil takes a lookaround the room and dashes to the door\n 'We've gotta save him!' Virgil stops at the door and looks at Roman. 'We can't just leave him.' There is a lot of bood. Oh God. Thy is there so much blood.\n'I can't'\n'What about your da-'\n'I need to find Dee and Remus.' His yes are wide, almost pleading and Roman doesn't know if he should be saving the daying man or run after his new aquintance.",
+    "options": {
+      "id0": {
+        "text": "leave the detective behind",
+        "next": 219
+      },
+      "id1": {
+        "text": "save the detective",
+        "next": 291
+      }
+    }
+  },
+  {
+    "id": 219,
+    "text": "Roman takes a long look at the detective, who appears to be unconcious and swallows down. He takes the gun that's lying next to the man and turns to Virgil.\n'Let's go' He says and Virgil nods. They move down the the corridor and spot an enormous man who has two people flung over his shoulders. Roman recognises one of them as the woman from earlier. Next to goon is another, smaller man, a riffle in his hand. Both their backs are turned to them.\n Virgil motion for Roman to halt and he takes a deep breath. He aims the gun at the shorter man's hand and shoots. The man swears loudly and lets go of the riffle. Virgil is next to the men before the riffle even hits the ground and elbows the shorter man in the nose with enough force to send him to the ground. He doesn't get back up.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 220
+      }
+    }
+  },
+  {
+    "id": 220,
+    "text": "The taller man lets go of his two prissoners and they fall limply to the ground as he lunges at Virgil. The thinner man ducks but the goon is supringly agile and turns around in a mather of seconds. Virgil aims his gun at him but the man rips it away, making the thin man stumble. The goon takes the eportunity to push Virgil to the ground and the man falls.\nHis huge back is turned to Roman and the next thing he knows, there is smoke comming from between his hands and the tall man sinks to the ground.\nVirgil is looking at him wide-eyed. What happenned?",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 190
+      }
+    }
+  },
+  {
+    "id": 221,
+    "text": "Y'all drive to Patton",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 222,
+    "text": "preparing plan",
+    "options": {
+      "id0": {
+        "text": "legan means",
+        "next": 223
+      },
+      "id1": {
+        "text": "illegal means",
+        "next": 224
+      }
+    }
+  },
+  {
+    "id": 223,
+    "text": "You lose ;-;",
+    "options": {
+      "id0": {
+        "text": "Game over",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 224,
+    "text": "They plant Roman as a spy->employee of picani",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 280
+      }
+    }
+  },
+  {
+    "id": 225,
+    "text": "No, being a few minutes late won't make a difference. After all he'd prefer to be alive then punctual.\n Roman quickly made his way downtown keeping a fast pace. It proved to be a good decision, as the party wasn't in full swing just yet.\n Roman let himself breath out a sigh of relief and steady his fast heartbeat. \n `This is it` he thought to himself, `time to mingle with the upper crust`. Roman straightened is posture and entered the ballroom.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 126
+      }
+    }
+  },
+  {
+    "id": 226,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "The current major",
+        "next": 127
+      },
+      "id1": {
+        "text": "Dr. Picani",
+        "next": 13
+      }
+    }
+  },
+  {
+    "id": 227,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 228,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "Play along-CLIFF",
+        "next": 1
+      },
+      "id1": {
+        "text": "Clear things up",
+        "next": 129
+      }
+    }
+  },
+  {
+    "id": 229,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 130
+      }
+    }
+  },
+  {
+    "id": 230,
+    "text": ".",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 231,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 134
+      }
+    }
+  },
+  {
+    "id": 232,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 133
+      }
+    }
+  },
+  {
+    "id": 233,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 131
+      }
+    }
+  },
+  {
+    "id": 234,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 135
+      }
+    }
+  },
+  {
+    "id": 235,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 138
+      },
+      "id1": {
+        "text": "",
+        "next": 136
+      }
+    }
+  },
+  {
+    "id": 236,
+    "text": "Roman ducks into an empty corridor, from the look of which, should be reserved only for the staff.\n The corridor splits in two after a few meters.",
+    "options": {
+      "id0": {
+        "text": "go left",
+        "next": 248
+      },
+      "id1": {
+        "text": "go right",
+        "next": 249
+      }
+    }
+  },
+  {
+    "id": 237,
+    "text": "They chat for a while before the woman excuses herself. Roman downs the rest of his drink and goes to find the back door.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 236
+      }
+    }
+  },
+  {
+    "id": 238,
+    "text": "Worriedly Roman opens the door, runs into the room and stops dead in his tracks.\n A man tied to a chair, his face bruiesed and bloody. Roman can't see if his chest is rising anymore. He locks eyes with the other two people in the room. A man and a woman that both look like they could easily snap most humans in half. They apperently  weren't prepared to have an intruder as their eyes went wide when they saw him, one of them reached for the gat.\n'I'll see myself out' Roman offeres.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 239
+      }
+    }
+  },
+  {
+    "id": 239,
+    "text": "He tries to walk out but the people are faster and soon he find himself trapped.\n That's when Picani opens one of the ofices side-doors and steps out. He spots Roman and his face goes dark. The journalist can't believe it's the same man he spoke to a mere few hours ago. Dr. Picani looks nothing like his public image anymore.\n He strides in Roman's direction while one of the goons holds the journalist in place.\n'What are we gonna do with him boss?' One of the goons ask and The Doctor takes a long look at Roman before answearing.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 244
+      }
+    }
+  },
+  {
+    "id": 240,
+    "text": "death.duh!",
+    "options": {
+      "id0": {
+        "text": "restart",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 241,
+    "text": "'Let me run this by you again' The doctor says. 'If you do us a little favour you just might survive. If not...' The threat hangs in the air.",
+    "options": {
+      "id0": {
+        "text": "refuse",
+        "next": 240
+      },
+      "id1": {
+        "text": "agree",
+        "next": 242
+      }
+    }
+  },
+  {
+    "id": 242,
+    "text": "Roman nods slowly and Dr. Picani clasps his hands.\n 'Excellent choice Mr. Prince' His face changed into that pleasant smile he gives during his speaches again. 'I'm sure Larry and Dot will be more then happy to brief you in'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 243
+      }
+    }
+  },
+  {
+    "id": 243,
+    "text": "Roman found himself on the doorsteps of `the dark corner` the same nigth. The mission was to locate the back door and open it for the Crystal Gems. Roman funbled with the entry card, the guard gave him a strange look, but thankfully didn't comment on the journalist strange behaviour and let the man in.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 245
+      }
+    }
+  },
+  {
+    "id": 244,
+    "text": "'We have a little buisness that we need to take care of and i'd hate to endanger one of my men.' The doctor says with a smirk 'What do you say Mr. Price? Care to lend us a hand?'\n'And who know' One of the goons interject. 'If you do well the boss might just let you live' He says with a grin. Roman looks between the three of them and the limp body in the middle of the room.",
+    "options": {
+      "id0": {
+        "text": "oppose without question",
+        "next": 240
+      },
+      "id1": {
+        "text": "hesitate",
+        "next": 241
+      },
+      "id2": {
+        "text": "agree",
+        "next": 242
+      }
+    }
+  },
+  {
+    "id": 245,
+    "text": "Roman tries to calms his mind with a drink. It's disgusting and Roman nearly spits it out, but manges to keep it down. A series of caughs errupts from him. Why do people drink this on a regular basis? Somebody next to him laughs and Roman looks at them. It's an unreasonably tall woman, her gaze is focused on the dancefloor.\n'First time?' She asks in a deep voice, still not looking at Roman.\n 'That telling?' The woman smiles.",
+    "options": {
+      "id0": {
+        "color": "green,navy",
+        "text": "next",
+        "next": 246
+      },
+      "id3": {
+        "color": "green,pink",
+        "text": "next",
+        "next": 246
+      },
+      "id2": {
+        "color": "green",
+        "text": "next",
+        "next": 237
+      },
+      "id1": {
+        "color": "red",
+        "text": "next",
+        "next": 237
+      }
+    }
+  },
+  {
+    "id": 246,
+    "text": "Her voice is awfully familiar, but it doesn't fit to any of his female friends. Maybe she's a singer?\n'Excuse my fowardness, but I can't quite shake of the feeling that I know you.' The woman turns to him and her eyes go wide. 'Are you perhaps a famous singer?\nShe lets out a nervous laugh, trying to shield herself with a fan.\n'Oh, not at all, though I'm flattered.' ",
+    "options": {
+      "id0": {
+        "text": "prod",
+        "next": 265
+      },
+      "id1": {
+        "text": "don't press it",
+        "next": 247
+      }
+    }
+  },
+  {
+    "id": 247,
+    "text": "Roman let it go, the last thing he would want to do is harrass someone. The woman excused herself soon after and Roman decided to finally go and find the back door.",
+    "options": {
+      "id0": {
+        "text": "left",
+        "next": 248
+      },
+      "id1": {
+        "text": "right",
+        "next": 249
+      }
+    }
+  },
+  {
+    "id": 248,
+    "text": "He runs into some guards. It's clear Roman isn't meant to be here.",
+    "options": {
+      "id0": {
+        "text": "Game over ;-;",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 249,
+    "text": "He finds he back door an opens it for the goons. They hand Roman a shotgun as they rush in",
+    "options": {
+      "id0": {
+        "text": "join them",
+        "next": 251
+      },
+      "id1": {
+        "text": "flee",
+        "next": 250
+      }
+    }
+  },
+  {
+    "id": 250,
+    "text": "Roman makes a life for himself a few cities away. He starts at a new newspaper and slowly gains recognition. One day Roman dosn't show up to work. He is declared deceesed the following week. ",
+    "options": {
+      "id0": {
+        "text": "Game over",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 251,
+    "text": "He sees the woman in the corridor cluthing her side and limping forward. She must have been caught in the crossfire.",
+    "options": {
+      "id0": {
+        "color": "nooooooo,red,pink",
+        "text": "help",
+        "next": 253
+      },
+      "id2": {
+        "color": "nooooooo,green,pink",
+        "text": "help",
+        "next": 253
+      },
+      "id1": {
+        "text": "ignore",
+        "next": 252
+      }
+    }
+  },
+  {
+    "id": 252,
+    "text": "Roman becomes a gangster. Picani is elected Mayor after the misterious dissapearence of Mr. Dolos he has no real opponent.",
+    "options": {
+      "id0": {
+        "text": "You survived. But at what cost",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 253,
+    "text": "'Wait' Roman shouts after her. She turn around, her eyes wide and aims a gun at Roman, her shot misses the journalist by an inch.\n Okay so shouting at the shooting victom wasn't the best idea. Roman raises both his hands.\n 'I want to help.' her eyes narrow.\n'Can you shoot?' Roman runs around\n 'Oh no, I'm not letting u go back there.' To emphesize Romans point series of shots errupt eerily close. The woman sneers.\n'I won't leave back my...'",
+    "options": {
+      "id0": {
+        "text": "argue-CLIFF",
+        "next": 1
+      },
+      "id1": {
+        "text": "drag her away from the crossfire",
+        "next": 254
+      }
+    }
+  },
+  {
+    "id": 254,
+    "text": "Roman doesn't let her finish her sentence as he scoops her up in one swift movement. The woman protests but Roman is having none of it. He slowly creeps to the back door.\n'I don't have a car' Roman says out loud. Darn it how could he over look something like that? The woman let's out a chuckle.\n'You really thought this out, havent you?'\n'Oh excuse me for panicking here.' Roman bites back. The woman takes out keys from her purse and hands them to Roman.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 256
+      }
+    }
+  },
+  {
+    "id": 255,
+    "text": "The woman says she'll guide him to the nearest clinic and Roman, not really having a backup plan agrees.\n Once they arrive the woman leans over and presses the honk.\n That's when Roman realises who this woman is.\n",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 256
+      }
+    }
+  },
+  {
+    "id": 256,
+    "text": "'Oh thank God.' Roman says as he grabs the keys from her then carries her to the car with her instruction to where it's parked. The sidewalks are filled with people running for their lives by now.\n He lets the woman down into the passanger seat once they make it to the car. She tries getting into the driver seat but Roman gently blocks her.\n 'You're in no condition to drive.' He starts the engine and then he realises he has no idea how to get to the doctor that saved him.",
+    "options": {
+      "id0": {
+        "color": "green,pink",
+        "text": "next",
+        "next": 255
+      },
+      "id1": {
+        "color": "red,pink",
+        "text": "next",
+        "next": 257
+      }
+    }
+  },
+  {
+    "id": 157,
+    "text": "'I know a good Doctor'",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 258
+      }
+    }
+  },
+  {
+    "id": 158,
+    "text": "Virgil heals. Patton and Roman have a heart to heart",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 259
+      }
+    }
+  },
+  {
+    "id": 159,
+    "text": "Virgil thanks Roman for the save",
+    "options": {
+      "id0": {
+        "text": "admit",
+        "next": 261
+      },
+      "id1": {
+        "text": "keep it a secret",
+        "next": 260
+      }
+    }
+  },
+  {
+    "id": 160,
+    "text": "Roman and Virgil become friends but the guilt eats Roman up for the rest of his live. Also Picani becomes Mayor. Their life is short as Picani hunts them down. sad times.",
+    "options": {
+      "id0": {
+        "text": "game over",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 161,
+    "text": "He admits that hes the one who cost Virgil's friends their lives.",
+    "options": {
+      "id0": {
+        "text": "nxt",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 162,
+    "text": "Patton tells him he did the right thing but to never come back. He gives Roman a name as a goodbye.",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 163,
+    "text": "Roman finds Logan and over the span of a few weeks they gather evidence. They manage to get Picani on trial. He doesn't land in jail but he never becomes mayor either.",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 264,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 265,
+    "text": "Roman tries to discretly peak behind the fan, which proves to be difficult as the woman is a good head taller then him.\n His attempts must have been obvious as the woman soon excuses herself. Roman, being his curious and determined self decides to follow her. Something about her reaction just didn't sit right and he was a reporter at heart after all.\n The woman is quick to navigate through the crowd of dancing masses. Her height, which previously was a disadvantege to Roman, makes her stand out and the journalist has no trouble locating her.\n He follows her into all the way into a nearby corridor where she finaly stops. Her posture is tense.\n 'What do you want' She spits out.",
+    "options": {
+      "id0": {
+        "text": "back down",
+        "next": 275
+      },
+      "id1": {
+        "text": "try to look at her face again",
+        "next": 266
+      }
+    }
+  },
+  {
+    "id": 266,
+    "text": "Roman tries to step closer to her, an apology already forming on his lips. The next thing he knows he's holding his eye, an agonizing pain shooting through it. The woman has turned around and looks downright furious. Her fist is raised and she's glaring at Roman. The shock from the punch must have jump started his memory as he suddenly recognizes who stands before him.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 267
+      }
+    }
+  },
+  {
+    "id": 267,
+    "text": "'Virgil?!' their face pales.\n'Umm...no...?'Virgil responds. He raises his fan again and tries to shield himself.\n 'It is you' Roman grins and the man looks like he's a second away from dashing down the hall.",
+    "options": {
+      "id0": {
+        "text": "ask about the dress",
+        "next": 278
+      },
+      "id1": {
+        "text": "compliment the dress",
+        "next": 279
+      }
+    }
+  },
+  {
+    "id": 168,
+    "text": "'Virgil?!' their face pales.\n'Umm...no...?'Virgil responds. He raises his fan again and tries to shield himself.\n 'It is you' Roman grins and the man looks like he's a second away from dashing down the hall.",
+    "options": {
+      "id0": {
+        "text": "ask about the dress",
+        "next": 278
+      },
+      "id1": {
+        "text": "compliment the dress",
+        "next": 279
+      }
+    }
+  },
+  {
+    "id": 169,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 170,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 171,
+    "text": "n",
+    "options": {
+      "id0": {
+        "text": "nxt",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 172,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 173,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 174,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      },
+      "id1": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 275,
+    "text": "Roman stops a short distance away from her, assessing what he did. He just chased a woman who he `thought` he knew down the hallway.\n 'I'm sorry. I believe I acted out of line' The woman still has her back turned to him.' I've mistaken you for a friend of mine.' He still couldn't shake of the feeling that he knew her. \n 'Is chasing women down the hall your usual flirting technique?' The woman chuckles. 'Does this actually work?'  \n'I wasn't trying to court you!' The way she put it made courting a woman sound horrible! 'I wouldn't go about flirting with women like that!'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 276
+      }
+    }
+  },
+  {
+    "id": 276,
+    "text": "She turned around. \n 'Is this how you go around flirting with men then?' she gave him a smug smirk, as if she just told the greatest joke.\n Oh\n Oooooh\n Roman recognized that smirk.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 277
+      }
+    }
+  },
+  {
+    "id": 177,
+    "text": "'Virgil?!' their face paled. \n 'umm...no…..?' Virgil said, trying to cover his fave with the fan again. 'It is you' Roman grins and Virgil looks like he's a second away from dashing down the hall.",
+    "options": {
+      "id0": {
+        "text": "ask about the dress",
+        "next": 278
+      },
+      "id1": {
+        "text": "compliment the dress",
+        "next": 279
+      }
+    }
+  },
+  {
+    "id": 178,
+    "text": "'What's with the eeerm… disguise?' Virgil lets out a deep breath.\n'I lost a bet'\n'You live an interesting life'\n'Tell me about it'\n The silence that follows is slightly awkward.\n'How's the gun shot wound' Virgil tries to break it.\n'It's healing, thanks' His side looks ugly and is extreamly sore but Roman will be fine. He won't be happy about it. But he will be fine.",
+    "options": {
+      "id0": {
+        "color": "green,pink",
+        "text": "next",
+        "next": 280
+      },
+      "id1": {
+        "color": "green,navy",
+        "text": "next",
+        "next": 214
+      }
+    }
+  },
+  {
+    "id": 279,
+    "text": "'I must say purple suits you' Roman can't help but tease the man. 'You look like royalty.'\n 'One more word from you Princey and you'll earn yourself matching black eyes.' Roman raises one of his hands in surrender the other one is still clutching his eye. The grin on his face is persistent.",
+    "options": {
+      "id0": {
+        "color": "green,navy",
+        "text": "next",
+        "next": 214
+      },
+      "id1": {
+        "color": "green,pink",
+        "text": "next",
+        "next": 280
+      }
+    }
+  },
+  {
+    "id": 180,
+    "text": "Then Roman remembers why he went chasing after the wo-Virgil in the first place and he sombers.\n'I have to tell you something' Roman says and Virgil notices the shift in his demeanor, his shoulder tense.\n'What is it?'\n'I know this probably comes out of no where but um..' Roman combes through his hair with his hand. 'I might have... sort of… been sent here by the mafia?' \n'You WHAT?'\n'Ok. Ok i know how this sounds' Roman says putting his hands up. 'But we don't have much time till they realise I'm not gonna let them in.' Virgil's eyes go wide and he grabs Romans arm and starts dragging the man down the hallway and upstairs.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 281
+      }
+    }
+  },
+  {
+    "id": 181,
+    "text": "They make it to one one of the many doors down the corridor and Virgil burst through it without knocking, dragging Roman behind him.\n There are 3 people in the room. Roman recognises one of them as the Mayor immediately. He's looking at them with surprise. There is one more man who is sitting next to the desk and a woman who has wrapped her feather boa around him. They both look as surprised as the Mayor.\n 'Virgil?'He says but it comes out more like a question. 'What..?'\n 'No time' The man in question says as he strides forward, dragging Roman behind him. 'We have to go'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 282
+      }
+    }
+  },
+  {
+    "id": 182,
+    "text": "Virgil makes his way around the enormous desk and finally lets go of Roman hand to start fumbling with the wall. The Mayor gives Roman a bone-chilling glare before he speaks up.\n'Virgil, what's going on?'\n 'If Roman's correct the Crystals have finally decided to come and off us all'\n 'And why should we trust this Roman?' The Mayor asked as if the man in question wasn't standing right next to him. Roman is about to tell him what he thinks of that when Virgil slides the trap door open with a loud crash.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 283
+      }
+    }
+  },
+  {
+    "id": 183,
+    "text": "'You need to keep this in a better condition' Virgil says and turns around 'What are you all waiting for? Get in' The Mayor signs and ducks through the door. The man and woman are right behind him. Once they go through Virgil turns to Roman.\n 'Are you waiting for a special invitation, your highness?'\n'Oh right, yes, sorry' Roman mumbles out as he joins the rest. Virgil goes through the small entrance as the last one and he closes the small door behind him with a loud click.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 284
+      }
+    }
+  },
+  {
+    "id": 184,
+    "text": "All five of them make it outside through the secret passage. By the time they escaped the road is in absolute chaos. Patreos running out of the bar by the masses. Gunshots chasing after them. \n'This won't be easy to cover up' The Mayor says under his breath but Roman catches the words anyway.\nThey push their way through the crowd and pile into Virgil's car. The ride is dead silent until they arrive at a house Roman recognises from  a few nights ago.\n 'Patton?' The Mayor asks, slight annoyance in his voice. Virgil lets out a deep sigh.\n 'Do you have a better idea?'\n 'What's with the long face boss? I'm sure dear old Pat will be thrilled to see us in one piece this time!' The woman declares gleefully and exits the car, the Mayor follows her with a sigh.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 285
+      }
+    }
+  },
+  {
+    "id": 185,
+    "text": "'Patton?' The detective asks\n 'My dad' Virgil elaborates, turning the engine off.\n'Your father is Dr. Patton Paninni?' Virgil snaps his head around with an audiouble crack in his neck.\n'You know my dad, detective?'\n'Certainly. Though I'm afraid this means I might not be welcome here' is all the detective replies. Virgil and Roman share a look, but before either of them get a chance to ask the man what he means the woman from earlier opens the car door and peaks inside.\n'Are you guys comming? My balls are freezing off out there.' What? Roman doesn't get the chance to ask what she mmeans by that as she grabs the detective by his tie and yanks him out of the car, making the poor man hit his head on the doorframe. Once she got the man out she leans back inside.\n 'Are you two lovebird coming out or should we go on without you?'\n 'We're not..!'Roman splutters, feeling his face heat up.\n'REMUS!' Virgil shouts his face getting redder as well. This only seems to amuse the woman as she crackles and closes the door with a loud bang.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 286
+      }
+    }
+  },
+  {
+    "id": 286,
+    "text": "'I...umm...' Virgil starts. 'Yeah. We better join the others' He says, exiting the car at an impresive speed. Roman collects his thought before he leaves the vehicle as well. The others are entering the house when he does and Roman jogs to catch up to them. They don't make it five steps in when the Doctors voice echoes though the house.\n'Kiddo? Is that you?'\n 'Yeah.' Virgil \n 'Evening Doc!' Remus exclaimes and the Mayor glares at him.\n 'Remus?' The doctor says suprised as he walks downstairs. His eyes go wide as he scans the small crowd in the entrance. 'Janus too? Did something happen?'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 287
+      }
+    }
+  },
+  {
+    "id": 187,
+    "text": "They inform Patton of what happened and set to work to overthrow Picani. The whole time the plan is discussed the doctor seems to be shooting side-glares at the detective, who slowly sinks down his chair over the course of the evening.\n They all agree that Remus, Janus and Roman need to stay out of sight while Logan and Virgil collect evidence. Janus, Patton and Roman go through all the materials while Logan an Virgil work `in the field`. Remus is more of a ditraction then anything else. The detective doesn't show up in the Paninni household for quite a while and Virgil is always the one to deliver evidence.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 289
+      }
+    }
+  },
+  {
+    "id": 188,
+    "text": "",
+    "options": {
+      "id0": {
+        "text": "",
+        "next": 1
+      }
+    }
+  },
+  {
+    "id": 189,
+    "text": "The gang goes against Picani in court and win. The man has to serve jail time and Janus Dolos, for better or for worse becomes the new Mayor. Remus and Roman start to become closer and Roman finds himself adopted into the curious little family.\n And as for Patton and Logan? Well that my dear reader is not yet set in stone.",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 190,
+    "text": "Roman manages to pry the door open and drags the detective, who gains some consciousness back, through the small corridor.\nThe outside is in complete disarray. Patrons running on the streets. Roman finds his way to the detective's car and hauls him inside. He gets inside the car as well only to remember he doesn't remember how to get to the doctors office.\n The detective tells him he'll guide him to a clinic and Roman isn't sure if he should trust a man who lost this much blood, but he doesn't have an alternative so he follows the man's directions.\n Curiously they arrive at the same house Roman wanted to take the detective to and as soon as he enters the driveway the journalist honks loudly. Roman gets out of the car and carries the detective to the front door, a worried Doctor awaits them there.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 292
+      }
+    }
+  },
+  {
+    "id": 291,
+    "text": "'I can't just leave him.' Virgil looks around franctically before he dives into the office again and rushes behind the desk. Motiones for Roman to follow and the journalist does. Virgil points to a barerly visible crack in the wall.\n'Pry these open and you'll have a clear path out.\n'I...ummm...thanks.' Virgil is out before Roman can finish his sentence.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 290
+      }
+    }
+  },
+  {
+    "id": 192,
+    "text": "'Roman?'He says, eyes wide 'What happened? Is Virgil…?'\n'I don't know but my friend has been shot and we need help.' The Doctor looks down at the detective, who is at the verge of consciousness and grimaces.\n 'Oh'\n 'Oh?'\n 'Nevermind kiddo' The doctor says 'Just get Logan inside and we'll patch him out'. Roman carries the almost unconscious man into the building and lays him down in the medical room. The detective smiles at the doctor.\n 'You have beautiful eyes, doctor.'\n 'He lost his mind' the doctor says.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 293
+      }
+    }
+  },
+  {
+    "id": 193,
+    "text": "Roman waits in the living room while the doctor works. Once the doctor finishes he joins Roman.\n 'Is he?'\n'He'll live.' the doctor says 'Will need some time to recover. I fear he might have gotten a concussion but nothing he won't recover from'\n'Doctor di-'\n 'It's Patton, kiddo.' Roman can't help but smile. 'Well, Patton, I hope you can excuse my curiosity but. You appear to know the detective.' Patton face falls \n'We've… we used to be close.' He says looking to the side. 'It didn't end on good terms.'\n'Oh. Sorry for asking.'\n'It's fine kiddo' The doctor says standing up. 'Why don't you get some rest?'",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 294
+      }
+    }
+  },
+  {
+    "id": 194,
+    "text": "Roman is restless and goes on outside to clear his mind, he notices Virgil in the house in the living room, bandaging himself up.\n 'Virgil?' The man looks at him surprised before his eyes narrow\n 'Roman' he spits out.\n 'Glad to see you're ok' Roman offers but Virgil just scofs. He swears he hears the man mutter something under his breath. He finishes with the rest of his bandages and gets up.\n'Where are you going?'\n'None of your concerns'",
+    "options": {
+      "id0": {
+        "text": "let him be",
+        "next": 295
+      },
+      "id1": {
+        "text": "argue",
+        "next": 296
+      }
+    }
+  },
+  {
+    "id": 195,
+    "text": "And Virgil is right. Him and Roman aren't friends. He watches as the man angrily leaves the house. He never sees him again.\n Roman stays employed by Logan and while at first the man didn't trust in his detective skills, Roman proves to be a good asset and the duo become a famous crime solving duo. Dr. Picani wins the next election and becomes Mayor.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 42
+      }
+    }
+  },
+  {
+    "id": 196,
+    "text": "'It is! I can't just let you go on a suicide mission!'\n'Oh now you can't' Virgil spats'But it was fine a few hours earlier.'\n 'What was I supposed to do?'Roman clenches his fist.'Leave a man to die?'\n 'Was I supposed to leave my friends to die?' Virgil screams loud enough that his voice echoes in Roman's ears. Virgil's lips begin to tremble and he sinks to the ground. He covers his face with his hands. 'I let them die.'\n Roman is overwhelmed by this. He doesn't know what to do so he tries to gently console Virgil. He knees next to him. ",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 297
+      }
+    }
+  },
+  {
+    "id": 197,
+    "text": "“It's not your fault, you didn't-'\n'I saw them die.' Virgil manages to cry out 'they, they,...I..' Virgil chokes out and Roman gives him a hug and Virgil hangs on for dear life.\nThey stay like this till Virgil cries himself out. Roman knows how he feels. He lost his brother. He has never stopped thinking if he could have saved him if he was braver that day. If he kept an eye on his sibling so he stays awake the whole night.\n He wasn't able to save his brother from himself but maybe this time, maybe this time he'll be able to help.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 298
+      }
+    }
+  },
+  {
+    "id": 198,
+    "text": "The next day the sky is cloudless and it feels almost like a mockery. Patton and Virgil are both mourning the loss of their friends and Roman lets them be.\n He checks up on the detective who is feeling better. Despite all the terrible things that transpired last night Virgil has managed to find out who the head of the rivaling mafia was. To everyone's surprise it turned out to be Dr. Picani.\n They decide to have Roman apply for a job at `the Cartoonist` and gather evidence to sue the man.\nRoman joins the newspaper. It used to be his dream since he came to this city but since he learned the truth about Picani his only goal is to bring the man down. Once they have enough evidence Roman writes an article and submits it to 'Talents' newspaper.\n His article brings a lot of outrage and he finds himself being sued by Dr. Picani.\nThanks to the evidance they gathered they manage to win the case.",
+    "options": {
+      "id0": {
+        "text": "next",
+        "next": 299
+      }
+    }
+  },
+  {
+    "id": 199,
+    "text": "Once the case is closed Roman finds himself being in demand as a journalist. Every newspaper wants to have him as an employee.\n Logan becomes a steadily more popular detective ands finds himself teaming up with the journalist on more then one occasion.\n Virgil and Patton move to Canada as soon as the Picani case is closed and neither Logan nor Roman ever see the two men again.",
+    "options": {
+      "id0": {
+        "text": "Epilogue",
+        "next": 1
+      }
+    }
+  }
+]

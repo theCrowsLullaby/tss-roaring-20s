@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  margin: 10vw 20vw;
+  border: 1px solid;
+  padding: 50px;
+  font-size: 25px;
+  background-color: rgb(178, 207, 245);
+  border-radius: 40px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "GNU Unifont", Verdana,
+    Helvetica, sans-serif;
+}
+.App p {
+  text-align: left;
+  margin: 10px;
+}
+
+button {
+  font-size: 25px;
+  margin: 20px;
+  padding: 7px;
+  border-radius: 10px;
+}
+
+body {
+  background-color: black;
+}
+
+@media only screen and (max-width: 1200px) {
+  .App {
+    padding: 10px;
+    margin: 0px;
+    font-size: 20px;
+  }
+}
+.IMG img {
+  width: 98vw;
+}
